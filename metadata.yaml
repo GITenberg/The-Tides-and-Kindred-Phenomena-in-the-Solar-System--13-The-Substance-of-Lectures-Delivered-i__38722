@@ -1,0 +1,30 @@
+_repo: The-Tides-and-Kindred-Phenomena-in-the-Solar-System--13-The-Substance-of-Lectures-Delivered-i__38722
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Darwin, George Howard, Sir
+    birthdate: 1845
+    deathdate: 1912
+    gutenberg_agent_id: '39625'
+    url: http://www.gutenberg.org/2009/agents/39625
+    wikipedia: http://en.wikipedia.org/wiki/George_Darwin
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2012-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Nebular hypothesis'
+- !lcsh 'Tides'
+title: "The Tides and Kindred Phenomena in the Solar System\r\nThe Substance of Lectures\
+  \ Delivered in 1897 at the Lowell Institute, Boston, Massachusetts"
+url: http://www.gutenberg.org/ebooks/38722
