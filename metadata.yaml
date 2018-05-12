@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39625
     wikipedia: http://en.wikipedia.org/wiki/George_Darwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38722#The-Tides-and-Kindred-Phenomena-in-the-Solar-System--13-The-Substance-of-Lectures-Delivered-i_
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2012-01-31'
 gutenberg_type: Text
